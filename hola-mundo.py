@@ -1,4 +1,4 @@
 print("Hola Mundo Buenas Tardes")
 print("Como estan Señores y Señoras?")
 print("Que Cuentas Tienen?")
-print("como estas?")
+print("Gracias, Hasta Luego")
