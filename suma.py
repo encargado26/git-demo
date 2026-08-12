@@ -6,8 +6,6 @@ print("La suma de los tres números es:", a + b + c)
 d = int(input("Ingrese un cuarto número: "))
 print("La suma de los cuatro números es:", a + b + c + d)
 e = int(input("Ingrese un quinto número: "))
-
+print("La suma de los cinco números es:", a + b + c + d + e)
 f = int(input("Ingrese un sexto número: "))
-
-g = int(input("Ingrese un séptimo número: "))
-print("La suma de los siete números es:", a + b + c + d + e)
+print("La suma de los seis números es:", a + b + c + d + e)
