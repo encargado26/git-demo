@@ -1,5 +1,4 @@
 print("Hola Mundo Buenas Tardes")
 print("Como estan Señores y Señoras?")
 print("Que Cuentas Tienen?")
-print("Adios, Nos Vemos Mañana")
-print("Hasta Luego, Nos Vemos Mañana")
+print("Gracias a Todos! , Hasta la Proxima!!")
